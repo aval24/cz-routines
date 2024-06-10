@@ -12,7 +12,7 @@
     ],
     "autoload": {
       "psr-4": {
-        "rerum\\czroutines\\": ""
+        "aval24\\cz-routines\\": ""
       }
     },
     "minimum-stability": "dev"
