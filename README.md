@@ -11,13 +11,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist alav24/cz-routines "*"
+php composer.phar require --prefer-dist aval24/cz-routines "*"
 ```
 
 or add
 
 ```json
-"alav24/cz-routines": "*"
+"aval24/cz-routines": "*"
 ```
 
 to the `require` section of your composer.json.
