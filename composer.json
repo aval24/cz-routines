@@ -15,5 +15,5 @@
         "rerum\\czroutines\\": ""
       }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
   }
